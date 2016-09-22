@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'rspec'
+gem 'fog'
+gem 'mime-types'
+gem 'dotenv'
+gem 'rake'
+gem 'httparty'
+gem 'pry'
+gem 'mysql2'
